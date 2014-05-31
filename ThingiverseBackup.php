@@ -38,6 +38,8 @@ class ThingiverseBackup {
 		foreach ($thingies as $thingId => $thingName) {
 			$this->parseThing($thingId);
 		}
+		
+		return $thingies;
 	}
 	
 	/**
