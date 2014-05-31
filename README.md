@@ -3,7 +3,7 @@ thingiverse-backup is a simple script, that lets you download all your 3D design
 
 ## Example usage
 
-    php fill-in-here
+    php example-cli.php openrep .
 
 ## Copyright - GPL v3 ShapeDo Ltd
 http://shapedo.com
